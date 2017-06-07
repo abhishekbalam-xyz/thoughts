@@ -1,0 +1,12 @@
+name: Blog
+title: Personal
+#url: http://mysite.com
+#baseurl: /blog
+
+markdown: kramdown
+
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
