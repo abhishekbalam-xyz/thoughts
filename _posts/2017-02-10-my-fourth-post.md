@@ -2,6 +2,8 @@
 title: My Fourth Post
 subtitle: Sample Subtitle
 layout: post
+permalink: My-Fourth-Post
+bg_img: images/project-4.jpg
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo nemo! Beatae ut, libero provident sint officia incidunt vitae? Nam labore commodi recusandae minima ipsa, autem tempora delectus sed ipsum debitis accusamus, aliquid et doloremque architecto.
 
