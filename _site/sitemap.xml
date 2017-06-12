@@ -4,21 +4,21 @@
     
     <url>
         <loc>/feed.xml</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/sitemap.xml</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -27,42 +27,42 @@
     
     <url>
         <loc>/My-Sixth-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/My-Fifth-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/My-Fourth-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/My-Third-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/My-Second-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
         <loc>/My-First-Post</loc>
-        <lastmod>2017-06-09</lastmod>
+        <lastmod>2017-06-13</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
