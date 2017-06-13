@@ -26,7 +26,7 @@ Take a look inside the _config.yml and change parameters as needed.
 
 In order to see your site in action, run Jekyll's built-in local server. 
 
-    $ jekyll serv
+    $ jekyll serve
 
 Now enter [`localhost:4000`](http://localhost:4000/) in the address bar of your browser.
 
