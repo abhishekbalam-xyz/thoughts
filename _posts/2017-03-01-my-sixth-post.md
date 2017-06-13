@@ -4,7 +4,9 @@ subtitle: Sample Subtitle
 layout: post
 bg_img: images/project-6.jpg
 category: android
+comments: true
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo nemo! Beatae ut, libero provident sint officia incidunt vitae? Nam labore commodi recusandae minima ipsa, autem tempora delectus sed ipsum debitis accusamus, aliquid et doloremque architecto.
 
 Qui praesentium expedita rerum iusto eveniet, molestiae velit optio alias ratione tenetur rem architecto sequi! Saepe laboriosam illum, qui laudantium expedita animi natus itaque blanditiis distinctio vero pariatur maxime, aliquid amet non veniam eos et culpa inventore vitae quas! Veritatis facilis impedit, aperiam, distinctio corporis, magni esse laboriosam quia harum blanditiis sapiente. Id sunt amet praesentium quisquam ea doloremque necessitatibus commodi alias saepe, veritatis ratione voluptate, officia tenetur minus fuga nemo reiciendis possimus reprehenderit quas porro. Libero quaerat non quod.
