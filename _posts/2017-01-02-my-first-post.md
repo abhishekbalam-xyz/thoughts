@@ -2,7 +2,7 @@
 title: My First Post
 subtitle: Sample Subtitle
 layout: post
-bg_img: images/project-1.jpg
+bg_img: assets/images/project-1.jpg
 category: android
 comments: true
 ---

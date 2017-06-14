@@ -2,7 +2,7 @@
 title: My Fifth Post
 subtitle: Sample Subtitle
 layout: post
-bg_img: images/project-5.jpg
+bg_img: assets/images/project-5.jpg
 category: android
 comments: true
 ---

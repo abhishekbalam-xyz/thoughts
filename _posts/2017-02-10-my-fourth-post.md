@@ -2,7 +2,7 @@
 title: My Fourth Post
 subtitle: Sample Subtitle
 layout: post
-bg_img: images/project-4.jpg
+bg_img: assets/images/project-4.jpg
 category: android
 comments: true
 ---
