@@ -433,12 +433,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 footer {
-  position: fixed;
   background: #fafafa;
   clear: both;
   font-size: 12px;
   padding: 20px 30px !important;
-  bottom: 0px;
 }
 .single footer > div {
   max-width: 960px;
