@@ -3,7 +3,7 @@ title: Slow Day
 subtitle: A little productive day.
 layout: post
 bg_img: assets/images/project-2.jpg
-category: rant
+category: Rant
 comments: false
 published: true
 ---
