@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #FC5185;
+  color: #0ACCA2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FC5185;
+  color: #0ACCA2;
   outline: none;
   text-decoration: none;
 }
@@ -73,17 +73,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FC5185;
+  background: #0ACCA2;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FC5185;
+  background: #0ACCA2;
 }
 
 ::selection {
   color: #fff;
-  background: #FC5185;
+  background: #0ACCA2;
 }
 
 .fh5co-nav {
@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Work Sans", Arial, sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
-  color: #FC5185;
+  color: #0ACCA2;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff;
 }
 .fh5co-nav ul li.btn-cta a span {
-  background: #FC5185;
+  background: #0ACCA2;
   padding: 4px 20px;
   display: -moz-inline-stack;
   display: inline-block;
@@ -350,7 +350,7 @@ h1, h2, h3, h4, h5, h6, figure {
     width: 100%;
     position: relative;
     z-index: 999;
-    height: 700px;
+    height: 300px;
   }
 }
 #fh5co-aside .overlay {
@@ -526,7 +526,7 @@ footer {
   color: #000;
 }
 .fh5co-post .fh5co-entry > div a:hover {
-  color: #FC5185;
+  color: #0ACCA2;
 }
 .fh5co-post .fh5co-entry > div h2 {
   margin-bottom: 10px;
@@ -705,9 +705,9 @@ footer {
 }
 
 .btn-primary {
-  background: #FC5185;
+  background: #0ACCA2;
   color: #fff;
-  border: 2px solid #FC5185;
+  border: 2px solid #0ACCA2;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #fc6a97 !important;
@@ -715,11 +715,11 @@ footer {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FC5185;
-  border: 2px solid #FC5185;
+  color: #0ACCA2;
+  border: 2px solid #0ACCA2;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FC5185;
+  background: #0ACCA2;
   color: #fff;
 }
 
@@ -849,7 +849,7 @@ footer {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FC5185;
+  border-color: #0ACCA2;
 }
 
 .row-pb-md {

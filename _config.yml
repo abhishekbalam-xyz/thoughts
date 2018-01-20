@@ -3,7 +3,7 @@ title: Personal
 url: http://localhost:4000
 #baseurl: /blog
 
-permalink: none
+permalink: /:year/:month/:day/
 
 markdown: kramdown
 

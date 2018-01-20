@@ -5,65 +5,44 @@
         <title>Personal</title>
         <link>http://localhost:4000</link>
         <description></description>
-        <lastBuildDate>Wed, 14 Jun 2017 12:25:29 +0530</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jan 2018 22:16:58 +0530</lastBuildDate>
         
         <item>
             <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
+                
+
             </description>
-            <pubDate>Wed, 01 Mar 2017 00:00:00 +0530</pubDate>
+            <pubDate>Sat, 20 Jan 2018 00:00:00 +0530</pubDate>
             <guid>
-                http://localhost:4000/android/my-sixth-post.html
+                http://localhost:4000/2018/01/20/
             </guid>
         </item>
         
         <item>
             <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
-            </description>
-            <pubDate>Mon, 27 Feb 2017 00:00:00 +0530</pubDate>
-            <guid>
-                http://localhost:4000/android/my-fifth-post.html
-            </guid>
-        </item>
-        
-        <item>
-            <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
-            </description>
-            <pubDate>Fri, 10 Feb 2017 00:00:00 +0530</pubDate>
-            <guid>
-                http://localhost:4000/android/my-fourth-post.html
-            </guid>
-        </item>
-        
-        <item>
-            <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
-            </description>
-            <pubDate>Wed, 08 Feb 2017 00:00:00 +0530</pubDate>
-            <guid>
-                http://localhost:4000/android/my-third-post.html
-            </guid>
-        </item>
-        
-        <item>
-            <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
+                &lt;p&gt;Today was a slow day also, but i did push a script to manage this blog :))&lt;/p&gt;
+
             </description>
             <pubDate>Sun, 15 Jan 2017 00:00:00 +0530</pubDate>
             <guid>
-                http://localhost:4000/android/my-second-post.html
+                http://localhost:4000/2017/01/15/
             </guid>
         </item>
         
         <item>
             <description>
-                &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod iure quidem, corrupti commodi quaerat unde aspernatur quia laborum, autem sapiente dolorum eos velit aliquid dignissimos molestias qui explicabo, hic a assumenda, expedita praesentium rem eum blanditiis. Fugit at voluptate nulla quae amet maxime dolorem voluptatum, tempore nam esse ea, mollitia, natus architecto porro illo ...
+                &lt;p&gt;Today was a weird day.
+Woke up to a horrible nightmare of murders and guilts .
+I found out that I had a leptin resistance and that my brain was healing too ..&lt;/p&gt;
+
+&lt;p&gt;Went to the doc and he said I have a bit of a grip on the reins of my mind..
+But, idk man it’s just a thread…&lt;/p&gt;
+
+&lt;p&gt;Then went to the us consulate to register at their library, it’s pretty good. A...
             </description>
             <pubDate>Mon, 02 Jan 2017 00:00:00 +0530</pubDate>
             <guid>
-                http://localhost:4000/android/my-first-post.html
+                http://localhost:4000/2017/01/02/
             </guid>
         </item>
         
