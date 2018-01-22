@@ -5,7 +5,7 @@ layout: post
 bg_img: assets/images/project-1.jpg
 category: Rant
 comments: false
-published: true
+published: false
 ---
 
 Today was a weird day.
