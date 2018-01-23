@@ -1,14 +1,27 @@
-name: Blog
-title: Personal
-url: http://localhost:4000
-#baseurl: /blog
+# Site settings
+title:          Blog
+description:    "Personal Blog | Abhishek Balam"
+baseurl:        ""
+url:            ""
 
-permalink: /:year/:month/:day/
+# Author
+author:
+  name:         Abhishek Balam
+  url:          https://abhishekbalam.xyz
+  email:        abhishekbalam@gmail.com
 
-markdown: kramdown
+# Build settings
+markdown:       kramdown
 
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5

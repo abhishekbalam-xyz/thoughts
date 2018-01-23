@@ -1,37 +1,30 @@
-<!DOCTYPE HTML>
-<html>
-	
-	{% include head.html %}
-	
-	<body>
-		
-	<div class="fh5co-loader"></div>
-	
-	<div id="page">
-		<div id="fh5co-aside" style="background-image: url({{ 'assets/images/image_1.jpg' | relative_url }})">
-			<div class="overlay"></div>
-			<nav role="navigation">
-				<ul>
-					<li><a href="index.html"><i class="icon-home"></i></a></li>
-				</ul>
-			</nav>
-			<div class="featured">
-				<span>Bio</span>
-				<h2>I'm Abhishek Balam, and this is my private blog..</h2>
-			</div>
-		</div>
-		<div id="fh5co-main-content">
-			<div class="fh5co-post"> 
-			
-				{{ content }}
-				
-				{% include footer.html %}
-			</div>
-		</div>
-	</div>
-	
-	{% include end_body.html %}
-	
-	</body>
-</html>
+<!DOCTYPE html>
+<html lang="en">
 
+  {% include head.html %}
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h2 class="nav-title">{{ site.title }}</h2>
+        </a>
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Posts</a></li>
+          <!-- <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li> -->
+          <li><a href="{{ '/archive' | prepend: site.baseurl }}/">Archive</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer style="position:absolute;bottom: 0;right:0;left:0;text-align:center;">
+      <span style="width: 100%">
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}.
+      </span>
+    </footer>
+  </body>
+</html>
