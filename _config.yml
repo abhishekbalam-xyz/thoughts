@@ -1,8 +1,8 @@
 # Site settings
 title:          Blog
 description:    "Personal Blog | Abhishek Balam"
-baseurl:        "/nZ2302"
-url:            "http://personal.abhishekbalam.xyz"
+baseurl:        ""
+url:            ""
 
 # Author
 author:
