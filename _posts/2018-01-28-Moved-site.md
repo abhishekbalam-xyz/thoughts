@@ -10,3 +10,9 @@ Its a pain to change the username again and again before pushing, but ill add it
 `git config credential.username "<username>"`
 
 The long ass command arrgh.
+
+---
+
+*Just added to the script, works fine*
+
+# :)
