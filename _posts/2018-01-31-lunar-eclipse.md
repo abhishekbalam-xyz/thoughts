@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Eclipse, some decent thinking and not much"
+title: "Lunar Eclipse"
 author: "Abhishek Balam"
 ---
 
-Today was a rare occurrence of a Kumar eclipse and mom was all hyped up about it…
+Today was a rare occurrence of a Lunar eclipse and mom was all hyped up about it…
 
 More importantly, I restarted my blog , The Curious Mumbaikar on Medium and it felt pretty good.
 
