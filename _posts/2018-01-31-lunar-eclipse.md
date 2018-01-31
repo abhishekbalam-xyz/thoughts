@@ -14,4 +14,6 @@ Also, made a small python script. If I continue doing this ,I might actually bui
 
 Today I also began reading the Intelligent Investor, it's a heavy read. But slowly I'll manage..
 
+Did learn basics of Perl, I think I'll start to use it more in Unix..
+
 Plans to start yoga from tomm and do a bit of exercise, it's 3.05 am of the next day, let's see :P
