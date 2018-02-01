@@ -5,7 +5,7 @@ title: "Old ghosts haunt me"
 
 I couldnt sleep the night before, so I could start the day at 4.30am..
 
-Sun was late to rise, so i waited till 5.30am to go.
+Sun was late to rise, so I waited till 5.30am to go.
 
 That's when the day started going to shit. I entered the gym after 2 days, weighing 97kgs, the heaviest I've been in 4 years..
 
