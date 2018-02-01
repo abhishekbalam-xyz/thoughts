@@ -21,4 +21,4 @@ I did have a good conversation with an old friend..She is the only person who ma
 
 Silver lining I guess..
 
-Anyways, lets see how the future holds.
+Anyways, lets see what the future holds.
