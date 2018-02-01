@@ -11,8 +11,6 @@ Its a pain to change the username again and again before pushing, but ill add it
 
 The long ass command arrgh.
 
----
-
-*Just added to the script, works fine*
+PS: *Just added to the script, works fine*
 
 # :)

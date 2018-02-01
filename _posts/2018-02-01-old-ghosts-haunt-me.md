@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Old ghosts haunt me"
+title: "Old ghosts still haunt me"
 ---
 
 I couldnt sleep the night before, so I could start the day at 4.30am..
