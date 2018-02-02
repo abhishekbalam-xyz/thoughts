@@ -15,7 +15,7 @@ I met a _**comrade**_ after a while and we had a good time today.
 * and had some food.
 * nice lil nap after reaching home
 
-all the things I needed to rest and relax.
+all the things I needed to rest and relax. This was the reboot I needed, thanks to the comrade, may god bless her too big to fit head :P ...
 
 So, now that's things are better , Ive gotta start to work at it again.
 
