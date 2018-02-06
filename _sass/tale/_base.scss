@@ -40,10 +40,11 @@ a {
 }
 
 blockquote {
-  border-left: .25rem solid $grey-2;
-  color: $grey-1;
+  border-left: .25rem solid black;
+  color: black;
   margin: .8rem 0;
   padding: .5rem 1rem;
+  font-size: 1.2em;
 
   p:last-child {
     margin-bottom: 0;

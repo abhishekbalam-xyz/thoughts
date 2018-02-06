@@ -1,7 +1,8 @@
 ---
 layout: post
 title: '"What do you want to do in life?"'
-pubished: false
+published: false
+
 ---
 
 {% comment %}
@@ -9,6 +10,7 @@ pubished: false
 question generates anxiety-as a kid not so much- eager optimistic answers-but now, fear of pressure- by parents,family,society - change of outlook-as a kid starry eyed ambition- a fixed goal to become something- as you grow, you realize, not so much in control-u can subconsciously ask for things-not really expect them to succeed-luck-not getting-depressed-but when you see people like elon musk- you see hope- who seems like he is living a linear life-maybe that could be you- but life isnt that simple-its hardly ever linear-anyway, i digress. so my story- scientist-aptitude-engineer-then-biology-academics-engineering-computers-business-i screwed uop-what i want to do?- everything. Literally. thats what i want to die knowing. knowing I tried those things. That doesnt mean, I want to do stupid things and suffer, it means im open to both , the positives and negativies and postivies of life. 
 
 {% endcomment %}
+
 
 This question, when asked to an Indian youngster my age, would ideally generate any of the following two types of responses: 
 1. An optimistic brief idea of what they plan to do for the next 5-10 years, with enthusiasm and very little apprehension
@@ -22,7 +24,10 @@ They aren't idiots, they know it will be tough, they know what will it cost, but
 These are the startup guys, highest (salary) placed, the ones who got into the colleges of their choice. 
 And now is the time of their lives, they feel like Gladiators entering the Colosseum, after alot of tortous practice to make a killing out there. High on the sweet nectar of success and high on andrenaline for the exciting future that lies ahead of them..
 
-“ Annoying pompous turds! “, thought of as atleast once in the minds of the youngsters belonging to the other two demographics..
+> “ Annoying pompous turds! “ 
+
+
+Thought of as atleast once in the minds of the youngsters belonging to the other two demographics..
 
 Their story is’nt all that glamorous, but a little bit more interesting.The truth is, the majority lies in the latter two demographics and their’s is the story no one talks about.
 
@@ -48,4 +53,6 @@ Ahhh, they are the people who had juusst a little too much fun, studied a little
 These are the people who know how to live life! They do what they want and leave no stone unturned to fulfill their short term goals.
 
 And alas, naturally, as bad grades transalate to a bad rep, irrespective of capability or intelligence, they aren't able to get placed and their future prospects seem dim.
+
+This group feels the worst during this time.  Depression, uncertainty, and anxiety take over. Familial and societal pressures not adding up.
 
