@@ -1,5 +1,5 @@
 # Site settings
-title:          Blog
+title:          Thoughts
 description:    "Blog | Abhishek Balam"
 baseurl:        ""
 url:            ""
@@ -23,5 +23,5 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:title
 paginate:       5

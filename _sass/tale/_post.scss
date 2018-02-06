@@ -1,12 +1,13 @@
 .post {
   padding: 3rem 0;
-
+  font-size: 1.2em;
+  
   &-info {
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
-
+    font-size: 0.8em;
     span {
       font-style: italic;
     }
