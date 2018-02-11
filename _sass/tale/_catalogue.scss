@@ -1,4 +1,5 @@
 .catalogue {
+  
   &-item {
     border-bottom: 1px solid $grey-2;
     color: $default-color;
@@ -19,6 +20,9 @@
     color: $default-tint;
     font-family: $serif-secondary;
     letter-spacing: .5px;
+    @media (max-width: 600px) {
+      display: none;
+    }
   }
 
   &-title {
@@ -35,5 +39,12 @@
     border-top: .2rem solid $default-shade;
     display: block;
     width: 2rem;
+  }
+
+  p {
+  font-size: 1.1em;
+    @media (max-width: 600px) {
+      font-size: 1em;
+    }
   }
 }
