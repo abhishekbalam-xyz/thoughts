@@ -36,25 +36,25 @@ Alright man, I'm sold. Tell me, how do I get there ?
 
 The instructor enlightens us: 
 
-> " For a person to attain satisfaction, there is no yoga asana, no meditation technique that will help him, he just need to lI've his life keeping a few things in mind."
+> " For a person to attain satisfaction, there is no yoga asana, no meditation technique that will help him, he just need to live his life keeping a few things in mind."
 
-> " Every one has 4 aspects of life that one has to manage simultaneously. All of these are essential and all are needed for a person to feel complete. Some might argue that one does not need maybe one of these, and can lI've just fine. That's true, but we just don't want to lI've, we want to lI've with satisfaction. And call it scientific evolutionary or societal needs, but needs they are. Lets get down to these 4 aspects. "
+> " Every one has 4 aspects of life that one has to manage simultaneously. All of these are essential and all are needed for a person to feel complete. Some might argue that one does not need maybe one of these, and can live just fine. That's true, but we just don't want to live, we want to live with satisfaction. And call it scientific evolutionary or societal needs, but needs they are. Lets get down to these 4 aspects. "
 
 > " The four aspects of life are <br> you,<br>your family/friends,<br> your work/business and<br>the community "
 
 I'll explain from here, the quotes are hard to read, I know..
 
-So the basic idea is we need to lI've 4 parallel lI'ves and manage all in such a way as to do things satisfactorily in all of them.
+So the basic idea is we need to live 4 parallel lives and manage all in such a way as to do things satisfactorily in all of them.
 
 Let's dissect them.. 
 
 1. You : Your health, your personal goals , all your dreams, aspirations and what you do to achieve them
 
-2. Your family/friends : The relationships in your life . How well you lI've with your family and take care of them. How you make and enjoy good company of friends . And also what you do for and with them.
+2. Your family/friends : The relationships in your life . How well you live with your family and take care of them. How you make and enjoy good company of friends . And also what you do for and with them.
 
 3. Your Work/Business : The way in which you earn a place in this world. All your professional commitments and obligations and how you manage them.
 
-4. The Community : We should feel lucky for being born at a time when so many thing are invented for our convenience and this has been done by many people before our time. Hence, we owe a debt of grattitude to the world and we need to do a little to gI've back. Living just for self, makes you feel incomplete because you know this at some definite level..
+4. The Community : We should feel lucky for being born at a time when so many thing are invented for our convenience and this has been done by many people before our time. Hence, we owe a debt of grattitude to the world and we need to do a little to give back. Living just for self, makes you feel incomplete because you know this at some definite level..
 
 And the most important take away from this are the 
 
@@ -83,7 +83,6 @@ Hence the message to carry away from here is:
 	- Do something for the community, you owe it your existence
 	- Try to be satisfied in life, happiness is a cheap high.
 	- Think of your tasks as duties
-
 
 
 Thats it for today.
