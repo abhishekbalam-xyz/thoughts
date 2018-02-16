@@ -4,7 +4,11 @@ title: "What I learned in Yoga: Priorities for a satisfactory life. "
 
 ---
 
-I had attended yoga classes near my place and I'd like to share my experience.
+![Yoga](/assets/images/yoga.jpg "Yoga")
+
+<br>
+<br>
+I had attended yoga classes near my place recently and I'd like to share my experience.
 
 The best part about the institute was not just the asanas which were taught, but also the little bits of life advice which the instructors gave along with every asana. There were discussions about them too.
 
