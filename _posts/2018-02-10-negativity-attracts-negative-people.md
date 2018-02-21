@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Negativity attracts negative people."
+
 ---
 
 I have realised recently that more negative you are, the more negative people you attract, and by attract I dont mean just romantically, in general.
