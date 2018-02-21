@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: post
 title: "Getting out of the Doldrums of life."
 
 ---
