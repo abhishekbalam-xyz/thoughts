@@ -8,9 +8,9 @@ Society was once limited to people who were in somewhat direct contact with a pe
 
 This is the age of the social media where it is all pervasive, with most of the social interactions moving to the internet. 
 
-Social media was invented to be a common platform for sharing ideas, thoughts and experiences between people , not limited by how apart physically they are. While this is very convenient and has a lot of use, its nature has evolved over the years...
+Social media was invented to be a common platform for sharing ideas, thoughts and experiences between people , not limited by how physically apart they are. While this is very convenient and has a lot of use, its nature has evolved over the years...
 
-Something which was supposed to be an extention of one's social life , is now playing the role of society itself. And its very efficient at that. The circles are bigger, each person has a wider geographical reach and all the interactions are persistent, as data stored in server farms.
+Something which was supposed to be an extention of one's social life , is now playing the role of society itself. And its very efficient at that. The circles are bigger, communication is instantaneous, each person has a wider geographical reach and all the interactions are persistent, as data stored in server farms.
 
 ## Roles played by Society 
 
@@ -30,7 +30,7 @@ This makes people extremely careful of how they appear to seen be online. They p
 
 When suppression of ones true nature and pretention to look better becomes a norm, that is when we know that society fails to play its second role.
 
-This is by now way a new phenomenon but it was never as widespread.
+This is by no way a new phenomenon but it was never as widespread.
 
 ## Problem with pretend goodness
 
@@ -40,16 +40,17 @@ There are many downsides to this way of thinking.
 
 ### Feelings of guilt 
 
-One can easily escape from public scrutiny of their actions, but one cant escape from their conscience. This leads to feelings of guilt and shame. These emotions affect the quality of life and make it tough to enjoy living. There are many cases when people have gone into depression due to this. The worst thing is that it's not their fault completely. Its the fear of the whip.
+One can easily escape from public scrutiny of their actions, but one can't escape from their conscience. This leads to feelings of guilt and shame. These emotions affect the quality of life and make it tough to enjoy living. There are many cases when people have gone into depression due to this. The worst thing is that it's not their fault completely. It's the fear of the whip.
 
 ### Fear of being exposed
+
 Then there is the fear of being exposed, so people spend so much time and energy to live up to it, that they often miss actually doing things which satify them. The newly coined term, **Quarter Life Crisis**, is when youngsters in their mid twenties are dissatisfied at their life and it stresses them that they wasted time on things which don't mean anything to them. This loss of direction is very disorienting.
 
 ### Intolerance
 
 The worst is that this behaviour starts to develop intolerence in society. The less popular opinons are supressed by the ones held by the majority. This is when `Political Correctness` a directive which was intended to protect the underprivalaged from the bullying of the majority becomes a tool to force people to conform to a particular worldview.
 
-This is very toxic for a society as when people are not allowed to have opinions other than that of the majority. Having multiple worldviews makes the probability of growth higher, as proven in history. The ability of constantly questioning the factual and moral correctness of our beliefs is the cornerstone of growth and harmony.
+This is very toxic for a society as people are not allowed to have opinions other than that of the majority. Having multiple worldviews makes the probability of growth higher, as proven in history. The ability of constantly questioning the factual and moral correctness of our beliefs is the cornerstone of growth and harmony.
 
 ### No justice
 
@@ -69,14 +70,14 @@ When a person has made a mistake we should not be eager to point that out, but t
 
 Instead of lying to the world, presenting a picture of us which isnt real, it would be much better if there is acceptance of how a person is. People do wonders when they are free to grow without the pressure of expectations.
 
-And when anyone witnesses bullying of a person with differnt ideas, action needs to be taken. One dimentional , narrow minded thinking woould have kept us all in the dark ages. It is our openness to new ideas that makes us the most dominant species on the planet. 
+And when anyone witnesses bullying of a person with differnt ideas, action needs to be taken. One dimentional , narrow minded thinking would have kept us all in the dark ages. It is our openness to new ideas that makes us the most dominant species on the planet. 
 
-I think goodness should be rewarded with praise and its importance should be taught to kids from a young age. Also, we need to learn to forgive people who have attempted to change after doing wrong. A changed person is much more valuable to society as compared to one who is tortured endlessly. 
+I think goodness should be rewarded with praise and it's importance should be taught to kids from a young age. Also, we need to learn to forgive people who have attempted to change after doing wrong. A changed person is much more valuable to society as compared to one who is tortured endlessly. 
 
 ## Conclusion
 
-As technology progresses, it's going to increasingly easy to stay connected and if we just practise the above things we can make sure that that progess is only beneficial to us. The problem isnt with the tools (like social media) , its with the users. Tools are a boon when used right and a curse when not. We need to make sure of the former. 
+As technology progresses, it's going to be increasingly easy to stay connected and if we just practise the above things we can make sure that that progess is only beneficial to us. The problem isn't with the tools (like social media) but with the users. Tools are a boon when used right and a curse when not. We need to make sure that it's the former. 
 
-Society is one of our most profound and wonderful inventions. It encourages us to progess and nurtures us to safety. Its what made us the most dominant species on the planet.
+Society is one of our most profound and wonderful inventions. It encourages us towards progess and nurtures us to safety.
 
-I have great hopes for humanity, and if we all contribute a little, there is nothing we cant do. 
+I have great hopes for humanity, and if we all contribute a little, there is nothing we can't do. 
