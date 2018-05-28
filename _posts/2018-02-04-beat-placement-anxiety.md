@@ -5,11 +5,11 @@ published: false
 
 ---
 
-{% comment %}
+!-- 
 
 question generates anxiety-as a kid not so much- eager optimistic answers-but now, fear of pressure- by parents,family,society - change of outlook-as a kid starry eyed ambition- a fixed goal to become something- as you grow, you realize, not so much in control-u can subconsciously ask for things-not really expect them to succeed-luck-not getting-depressed-but when you see people like elon musk- you see hope- who seems like he is living a linear life-maybe that could be you- but life isnt that simple-its hardly ever linear-anyway, i digress. so my story- scientist-aptitude-engineer-then-biology-academics-engineering-computers-business-i screwed uop-what i want to do?- everything. Literally. thats what i want to die knowing. knowing I tried those things. That doesnt mean, I want to do stupid things and suffer, it means im open to both , the positives and negativies and postivies of life. 
 
-{% endcomment %}
+-->
 
 > "What do you want to do in life?"
 
